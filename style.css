@@ -61,11 +61,22 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    transform: translateY(-230px);
+    transform: translateY(-430px);
 }
 
 .google-maps a {
     font-size: 60px;
     padding: 20px 60px;
     text-decoration: none;
+}
+.telefono {
+    width: 100%;
+    text-align: center;
+     transform: translateY(-510px);
+
+}
+
+.telefono p {
+    font-size: 25px;
+    margin: 0;
 }
